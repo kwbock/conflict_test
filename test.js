@@ -11,3 +11,7 @@ export function doSomethingElse() {
 export function kbPersonalFunction() {
   console.error("get out of here!")
 }
+
+export function tylersPersonalFunction(){
+  console.log("here it is")
+}
