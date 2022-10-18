@@ -7,3 +7,7 @@ export function doSomethingElse() {
   let newstring = "else"
   console.log("does something "  + newstring)
 }
+
+export function kbPersonalFunction() {
+  console.error("get out of here!")
+}
