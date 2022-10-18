@@ -3,5 +3,6 @@ export function doSomething() {
 }
 
 export function doSomethingElse() {
-  console.log("does something else")
+  let newstring = "else"
+  console.log("does something "  + newstring)
 }
